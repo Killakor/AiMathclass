@@ -122,16 +122,36 @@
   font-size:24px;
   text-align:left;
 }
+.primary_text_dark {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
 .box_11 {
   font-family:'Roboto', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
 }
+.ellipse1 {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
 .image {
   font-family:'Roboto', sans-serif;
   font-weight:400;
   font-style:normal;
+}
+.divider {
+  font-family:'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
 }
 .image1 {
 }
@@ -187,11 +207,24 @@
   color:#000000;
   text-align:left;
 }
+.image2 {
+  font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
 .shape5 {
   font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
   color:#000000;
+}
+.placeholder {
+}
+.text_area {
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
