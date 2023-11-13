@@ -95,6 +95,8 @@
 }
 .connector {
 }
+.snapshot {
+}
 .shape1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
@@ -225,6 +227,9 @@
 }
 .text_area {
   color:#000000;
+  text-align:left;
+}
+.paragraph2 {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
