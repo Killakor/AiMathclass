@@ -261,6 +261,14 @@
   font-size:16px;
   color:#000000;
 }
+.droplist1 {
+  font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
 .placeholder {
 }
 .text_area {
@@ -334,5 +342,10 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
+}
+._tooltips_mobile {
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.866666666666667);
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
